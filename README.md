@@ -1,4 +1,8 @@
 # StickyPawn
+
+![StickyPawn](https://github.com/FlushTheCarrot/StickyPawn/assets/143920708/0f64e0f2-041a-4f0a-8eb6-f1b9d0c0a59f)
+
+
 Sticky Pawn is a basic text editors/notes app i started to make my portfolio look pretty.
 
 
