@@ -4,7 +4,7 @@ Sticky Pawn is a basic text editors/notes app i started to make my portfolio loo
 
 
 # Built In Text Coloring.
-** Very Creative Friends **
+## Very Creative Friends 
 
 I have alot of visual based friends who like to tweak things at random times while taking notes,
 so i made a color picker that will format your text to the desired color.
