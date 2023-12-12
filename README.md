@@ -30,3 +30,23 @@ if you need to go back to a line just write it there so you wont forget.
 closing it will completly erase the notes(mini notepad).
 
 ![Screenshot 2023-12-12 114218](https://github.com/FlushTheCarrot/StickyPawn/assets/143920708/b166868b-a2de-4757-8e0f-798b8a495490)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
